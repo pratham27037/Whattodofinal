@@ -20,7 +20,7 @@ const String TWITTER_URL = "";
 const String FACEBOOK_URL = "";
 const String GITHUB_URL = "https://github.com/pratham27037/";
 const String PROJECT_URL = "https://github.com/pratham27037/Whattodofinal";
-const String ISSUE_URL = "https://github.com/burhanrashid52/WhatTodo/issues";
+const String ISSUE_URL = "";
 const String README_URL =
     "";
 const String EMAIL_URL =
